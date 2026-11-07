@@ -1,0 +1,3 @@
+p101|shoe|footware|1500.0|0
+p102|watch|accessories|500.0|0
+p103|dress|fashons|500.0|0
